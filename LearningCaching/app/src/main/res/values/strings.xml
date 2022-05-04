@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LearningCaching</string>
+    <string name="write_message_to_cache">Write message to cache</string>
+    <string name="cache">Cache</string>
+    <string name="cached_text">Cached text</string>
+    <string name="get_cache">Get cache</string>
+</resources>
