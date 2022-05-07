@@ -4,4 +4,6 @@
     <string name="cache">Cache</string>
     <string name="cached_text">Cached text</string>
     <string name="get_cache">Get cache</string>
+    <string name="clear_cache">Clear cache</string>
+    <string name="cache_size">Cache size</string>
 </resources>

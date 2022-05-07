@@ -36,5 +36,23 @@
         android:id="@+id/getCache"
         />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cache_size"
+        android:layout_gravity="center"
+        android:id="@+id/getCacheSize"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cache_size"
+        android:id="@+id/cacheSize"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/clear_cache"
+        android:id="@+id/clearCacheButton"/>
 
 </LinearLayout>
